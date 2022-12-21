@@ -1,7 +1,7 @@
 <script lang="ts" setup></script>
 
 <template>
-  <div>
+  <div class="bg-green-100">
     Component: TheHeader
   </div>
 </template>
