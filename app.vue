@@ -12,6 +12,7 @@ function decrease() {
 
 <template>
   <div>
+    <TheHeader />
     <span>Counter: {{ counter }}</span>
     <button type="button" @click="increase">Increase</button>
     <button type="button" @click="decrease">Decrease</button>
