@@ -22,12 +22,8 @@ function decrease() {
         <button class="p-4 bg-black text-white" type="button" @click="decrease">Decrease</button>
       </div>
     </div>
-    <div class="container">Using Design Token!</div>
   </div>
 </template>
 
 <style lang="scss" scoped>
-.container {
-  background-color: $color-base-red;
-}
 </style>
